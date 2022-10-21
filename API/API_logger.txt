@@ -1,0 +1,194 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Processing request /card/getcard
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Processing request /card/getcard
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Processing request /card/getcard
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Can't get image from file Application.Exeption.RestException: Exception of type 'Application.Exeption.RestException' was thrown.
+   at Application.InfoCards.GetImage.GetImageHandler.Handle(GetImageQuery request, CancellationToken cancellationToken) in C:\Users\vladk\source\repos\API\Application\InfoCards\GetImage\GetImageHandler.cs:line 50
+Rest error
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Can't get image from file Application.Exeption.RestException: Exception of type 'Application.Exeption.RestException' was thrown.
+   at Application.InfoCards.GetImage.GetImageHandler.Handle(GetImageQuery request, CancellationToken cancellationToken) in C:\Users\vladk\source\repos\API\Application\InfoCards\GetImage\GetImageHandler.cs:line 50
+Rest error
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Can't get image from file Application.Exeption.RestException: Exception of type 'Application.Exeption.RestException' was thrown.
+   at Application.InfoCards.GetImage.GetImageHandler.Handle(GetImageQuery request, CancellationToken cancellationToken) in C:\Users\vladk\source\repos\API\Application\InfoCards\GetImage\GetImageHandler.cs:line 50
+Rest error
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Server error
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Can't get image from file System.ArgumentNullException: Value cannot be null.
+   at Application.Services.FileService.GetInfoCardById(Guid id) in C:\Users\vladk\source\repos\API\Application\Services\FileService.cs:line 55
+   at Application.InfoCards.GetImage.GetImageHandler.Handle(GetImageQuery request, CancellationToken cancellationToken) in C:\Users\vladk\source\repos\API\Application\InfoCards\GetImage\GetImageHandler.cs:line 30
+Server error
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vladk\source\repos\API\API

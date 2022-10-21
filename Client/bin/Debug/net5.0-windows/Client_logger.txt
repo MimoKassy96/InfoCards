@@ -1,0 +1,71 @@
+2022-10-06 17:59:41.654 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:01:47.555 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:01:53.727 +03:00 [ERR] List info card cant be null! Error: 1
+2022-10-06 18:05:56.927 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:05:58.547 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:07:10.401 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:07:16.394 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:08:03.395 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:08:05.019 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:25:53.949 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:26:06.390 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:26:33.241 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:26:36.027 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:28:10.945 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:28:12.778 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-06 18:28:54.093 +03:00 [ERR] Cant get info cards! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+2022-10-06 18:28:55.496 +03:00 [ERR] List info card cant be null! Error: System.NotImplementedException: The method or operation is not implemented.
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\vladk\source\repos\API\Client\MainWindow.xaml.cs:line 44
+2022-10-07 19:00:20.245 +03:00 [ERR] Can't upload image! Error: System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Client.Service.InfoCardsService.UploadImage(String id) in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 68
+2022-10-10 17:42:06.519 +03:00 [ERR] Can't upload image! Error: System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Client.Service.InfoCardsService.UploadImage(String id) in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 68
+2022-10-10 17:43:31.535 +03:00 [ERR] Can't upload image! Error: System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Client.Service.InfoCardsService.UploadImage(String id) in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 68
+2022-10-19 03:04:54.653 +03:00 [ERR] Can't delete card! Error: System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Client.Service.InfoCardsService.DeleteInfoCard(String id) in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 110
+2022-10-21 16:06:23.196 +03:00 [ERR] Can't upload image! Error: System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Client.Service.InfoCardsService.UploadImage(String id) in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 70
+2022-10-21 16:49:34.168 +03:00 [ERR] Can't get info cards! Error: System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:44338)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Client.Service.InfoCardsService.GetInfoAsync() in C:\Users\vladk\source\repos\API\Client\Service\InfoCardsService.cs:line 37
